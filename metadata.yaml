@@ -1,5 +1,8 @@
 _repo: The-Open-Window-Tales-of-the-Months_59964
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59964-h/images/cover.jpg
 creator:
   author:
     agent_name: Wright, Mabel Osgood
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4028
     wikipedia: http://en.wikipedia.org/wiki/Mabel_Osgood_Wright
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59964#The-Open-Window-Tales-of-the-Months
 gutenberg_issued: '2019-07-21'
 gutenberg_type: Text
 identifiers:
